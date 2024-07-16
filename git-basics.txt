@@ -19,8 +19,12 @@
 
 # basic commands
 git init 
-git status
+git status // gets the status of files in the working directory
+           // we can also use git status --short  for short status
+git diff   // to see what changes occured exactly (working tree vs staged)
+git diff --staged //(staged vs last commit)
 git add <>
 git commit -m""
 git log <*option>
+
 
