@@ -32,3 +32,6 @@ git log <*option>
 git rm <fname> // removes the file from working dir 
 git rm --cached // remove file from staged area but its no longer tracked and its not removed from working tree.
 
+# Git Basics - Viewing the Commit History
+git log // shows all commits in chronological order in the repo.
+git log --patch | -p  -n? // for change log per commit
