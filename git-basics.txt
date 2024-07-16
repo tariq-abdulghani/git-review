@@ -21,6 +21,7 @@
 git init 
 git status // gets the status of files in the working directory
            // we can also use git status --short  for short status
+           // files have 4 possible status values tracked, untracked, modified, staged.
 git diff   // to see what changes occured exactly (working tree vs staged)
 git diff --staged //(staged vs last commit)
 git add <>
@@ -30,3 +31,4 @@ git log <*option>
 # Removing file 
 git rm <fname> // removes the file from working dir 
 git rm --cached // remove file from staged area but its no longer tracked and its not removed from working tree.
+
