@@ -1,0 +1,26 @@
+# Git Basics
+
+## Git Terminology
+    Working Tree -> Set of files and directories managed by git
+    Repository   -> all meta data about the whole changes .
+    Commit       -> saved changes at a point of time
+    Branch       -> Sequence of commits, and also contains all information about directory
+                    and files.
+
+    
+## Git Basic Work Flow
+    working tree            staging area            Repository
+        | <-------------------Checkout----------------------|
+        | -----------add--------->|                         |
+        |                         |-----------Commit------->|
+    
+-- Conclusions
+    we need to create a repository to save our hisoty
+
+# basic commands
+git init 
+git status
+git add <>
+git commit -m""
+git log <*option>
+
