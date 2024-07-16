@@ -27,4 +27,6 @@ git add <>
 git commit -m""
 git log <*option>
 
-
+# Removing file 
+git rm <fname> // removes the file from working dir 
+git rm --cached // remove file from staged area but its no longer tracked and its not removed from working tree.
