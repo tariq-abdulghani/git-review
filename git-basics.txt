@@ -105,4 +105,30 @@ git remote show <remote> // displays all remote information
 git remote rename <old-name> <new-name>
 git remote remove <remote>
 
+# Tagging
+# Alias
+
+------------------------------------------------------------------
+Summary
+
+Git is vcs.
+basic Terminology 
+ - Working Tree
+ - Repository
+ - staging
+ - Commit
+ - Branch
+
+the four file status
+git diff
+how to commit
+how to see commits git log
+undo
+    amend, restore to unstaged, restore to unmodified
+
+ignoring changes using .gitignore
+
+remotes
+    add, remove, rename, fetch, pushh, pull, show
+    how to track remote branches?
 
