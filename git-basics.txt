@@ -69,7 +69,7 @@ git restore <file>..." // to discard changes in working directory
 # Working with remote
 
 what is Remote?
-
+is a copy of the project hosted on the server
 
 git remote  -v?// lists all remote repositories
 git remote add <shortname> <url> // adds a new remote
@@ -101,5 +101,8 @@ git push <remote> <branch> // pushes our branch to the remote branch
 // push to, and when we pull we know what remote branch.
 // such relation is made explicitly.
 
+git remote show <remote> // displays all remote information
+git remote rename <old-name> <new-name>
+git remote remove <remote>
 
 
