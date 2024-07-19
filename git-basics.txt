@@ -133,3 +133,8 @@ remotes
     how to track remote branches?
 
 # next step branching
+
+what is a branch in Git?
+why branches are considered as Git's killer feature?
+what is Head?
+how to create a branch, how switch between them?
