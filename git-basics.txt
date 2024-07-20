@@ -133,3 +133,6 @@ remotes
     how to track remote branches?
 
 # next step branching
+
+what is branch? why and how?
+
