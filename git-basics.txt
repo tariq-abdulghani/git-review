@@ -134,5 +134,11 @@ remotes
 
 # next step branching
 
-what is branch? why and how?
+what is a branch in Git?
+    A branch can be considered as a pointer to  a commit,and each commit
+    points to the previous commit (parent), so its also a Sequence of commits
+    and used to have separate lines of development
 
+why branches are considered as Git's killer feature?
+what is Head?
+how to create a branch, how switch between them?
