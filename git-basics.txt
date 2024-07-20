@@ -142,3 +142,9 @@ what is a branch in Git?
 why branches are considered as Git's killer feature?
 what is Head?
 how to create a branch, how switch between them?
+
+merge 
+    - fast forward
+    - merge Commit
+    
+conflicts and how to handle them
